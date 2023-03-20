@@ -1,0 +1,15 @@
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\bin\Debug\net6.0\StoreManagementSystemV3.exe
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\bin\Debug\net6.0\StoreManagementSystemV3.deps.json
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\bin\Debug\net6.0\StoreManagementSystemV3.runtimeconfig.json
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\bin\Debug\net6.0\StoreManagementSystemV3.dll
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\bin\Debug\net6.0\StoreManagementSystemV3.pdb
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\StoreManagementSystemV3.csproj.AssemblyReference.cache
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\StoreManagementSystemV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\StoreManagementSystemV3.AssemblyInfoInputs.cache
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\StoreManagementSystemV3.AssemblyInfo.cs
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\StoreManagementSystemV3.csproj.CoreCompileInputs.cache
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\StoreManagementSystemV3.dll
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\refint\StoreManagementSystemV3.dll
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\StoreManagementSystemV3.pdb
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\StoreManagementSystemV3.genruntimeconfig.cache
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV3\obj\Debug\net6.0\ref\StoreManagementSystemV3.dll

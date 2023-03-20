@@ -1,0 +1,15 @@
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\bin\Debug\net6.0\SmartHomeAppliancesV2.exe
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\bin\Debug\net6.0\SmartHomeAppliancesV2.deps.json
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\bin\Debug\net6.0\SmartHomeAppliancesV2.runtimeconfig.json
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\bin\Debug\net6.0\SmartHomeAppliancesV2.dll
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\bin\Debug\net6.0\SmartHomeAppliancesV2.pdb
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\SmartHomeAppliancesV2.csproj.AssemblyReference.cache
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\SmartHomeAppliancesV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\SmartHomeAppliancesV2.AssemblyInfoInputs.cache
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\SmartHomeAppliancesV2.AssemblyInfo.cs
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\SmartHomeAppliancesV2.csproj.CoreCompileInputs.cache
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\SmartHomeAppliancesV2.dll
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\refint\SmartHomeAppliancesV2.dll
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\SmartHomeAppliancesV2.pdb
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\SmartHomeAppliancesV2.genruntimeconfig.cache
+C:\Users\11747\Desktop\DotNetTest\SmartHomeAppliancesV2\obj\Debug\net6.0\ref\SmartHomeAppliancesV2.dll

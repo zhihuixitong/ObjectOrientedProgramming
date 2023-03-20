@@ -1,0 +1,15 @@
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\bin\Debug\net6.0\StoreManagementSystemV2.exe
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\bin\Debug\net6.0\StoreManagementSystemV2.deps.json
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\bin\Debug\net6.0\StoreManagementSystemV2.runtimeconfig.json
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\bin\Debug\net6.0\StoreManagementSystemV2.dll
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\bin\Debug\net6.0\StoreManagementSystemV2.pdb
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\StoreManagementSystemV2.csproj.AssemblyReference.cache
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\StoreManagementSystemV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\StoreManagementSystemV2.AssemblyInfoInputs.cache
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\StoreManagementSystemV2.AssemblyInfo.cs
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\StoreManagementSystemV2.csproj.CoreCompileInputs.cache
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\StoreManagementSystemV2.dll
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\refint\StoreManagementSystemV2.dll
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\StoreManagementSystemV2.pdb
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\StoreManagementSystemV2.genruntimeconfig.cache
+C:\Users\11747\Desktop\DotNetTest\StoreManagementSystemV2\obj\Debug\net6.0\ref\StoreManagementSystemV2.dll
