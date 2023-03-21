@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = StoreManagementSystemV2
-build_property.ProjectDir = C:\Users\11747\Source\Repos\ObjectOrientedProgramming\DotNetTest\StoreManagementSystemV2\
+build_property.ProjectDir = C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\StoreManagementSystemV2\

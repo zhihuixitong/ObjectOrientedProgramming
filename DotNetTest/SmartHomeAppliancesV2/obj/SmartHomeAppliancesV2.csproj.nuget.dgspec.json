@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\11747\\Source\\Repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\SmartHomeAppliancesV2.csproj": {}
+    "C:\\Users\\11747\\source\\repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\SmartHomeAppliancesV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\11747\\Source\\Repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\SmartHomeAppliancesV2.csproj": {
+    "C:\\Users\\11747\\source\\repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\SmartHomeAppliancesV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\11747\\Source\\Repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\SmartHomeAppliancesV2.csproj",
+        "projectUniqueName": "C:\\Users\\11747\\source\\repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\SmartHomeAppliancesV2.csproj",
         "projectName": "SmartHomeAppliancesV2",
-        "projectPath": "C:\\Users\\11747\\Source\\Repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\SmartHomeAppliancesV2.csproj",
+        "projectPath": "C:\\Users\\11747\\source\\repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\SmartHomeAppliancesV2.csproj",
         "packagesPath": "C:\\Users\\11747\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\11747\\Source\\Repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\obj\\",
+        "outputPath": "C:\\Users\\11747\\source\\repos\\ObjectOrientedProgramming\\DotNetTest\\SmartHomeAppliancesV2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\11747\\NuGet.Config",

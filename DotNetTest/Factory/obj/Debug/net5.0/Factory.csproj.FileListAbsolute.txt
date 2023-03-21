@@ -1,0 +1,16 @@
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\bin\Debug\net5.0\Factory.exe
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\bin\Debug\net5.0\Factory.deps.json
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\bin\Debug\net5.0\Factory.runtimeconfig.json
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\bin\Debug\net5.0\Factory.runtimeconfig.dev.json
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\bin\Debug\net5.0\Factory.dll
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\bin\Debug\net5.0\ref\Factory.dll
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\bin\Debug\net5.0\Factory.pdb
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\Factory.csproj.AssemblyReference.cache
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\Factory.AssemblyInfoInputs.cache
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\Factory.AssemblyInfo.cs
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\Factory.dll
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\ref\Factory.dll
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\Factory.pdb
+C:\Users\11747\source\repos\ObjectOrientedProgramming\DotNetTest\Factory\obj\Debug\net5.0\Factory.genruntimeconfig.cache
